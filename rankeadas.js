@@ -1,3 +1,4 @@
+// Desafio: Calculadora de Rankeadas
 function calcularRankeada(vitorias,derrotas){
     let saldo = vitorias - derrotas
     let nivel = ""
